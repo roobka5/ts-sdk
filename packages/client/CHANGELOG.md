@@ -1,5 +1,12 @@
 # @polymarket/client
 
+## 0.3.1
+
+### Patch Changes
+
+- Updated dependencies [2ba6be3]
+  - @polymarket/bindings@0.3.1
+
 ## 0.3.0
 
 ### Minor Changes
